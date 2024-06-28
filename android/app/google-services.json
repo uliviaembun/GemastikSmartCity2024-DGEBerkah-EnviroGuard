@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079512493359",
+    "project_id": "enviroguard-df6d7",
+    "storage_bucket": "enviroguard-df6d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079512493359:android:e2e86770400e035a2385da",
+        "android_client_info": {
+          "package_name": "com.gemastik.enviroguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUQ4q9Z3dLvL2lbMAnkU6AgDe-28dc7bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
