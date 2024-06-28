@@ -5,4 +5,5 @@ Repository ini berisi framework App Development untuk aplikasi EnviroGuard yang 
 Kami mengembangkan aplikasi EnviroGuard menggunakan framework Flutter.
 
 # Running Project
+Framework aplikasi ada di branch `master`.
 Silahkan gunakan command `flutter run` untuk mengetes dan menampilkan project yang sedang kami kembangkan.
